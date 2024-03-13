@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-fileupload-1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/laboratory_management/laboratory_management/web/WEB-INF/lib/commons-fileupload-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laboratory_management/laboratory_management/web/WEB-INF/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laboratory_management/laboratory_management/web/WEB-INF/lib/json-20240303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laboratory_management/laboratory_management/web/WEB-INF/lib/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laboratory_management/laboratory_management/web/WEB-INF/lib/org.apache.commons.io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
