@@ -56,8 +56,10 @@
     <nav id="navbar" class="navbar order-last order-lg-0">
       <ul>
         <li><a class="nav-link scrollto " href="#hero">Home</a></li>
-        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        <li><a class="nav-link scrollto" href="#about">About</a></li>
+        <li><a class="nav-link scrollto" href="#services">Services</a></li>
         <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav><!-- .navbar -->
@@ -286,7 +288,49 @@
   </section><!-- End Features Section -->
 
   <!-- ======= Services Section ======= -->
-  <!-- End Services Section -->
+  <section id="services" class="services services">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Services</h2>
+        <p>Our comprehensive range of services is designed to address every aspect of your healthcare needs, from proactive cardiac care to emergency responsiveness. We leverage diagnostic precision, surgical expertise, and a patient-centered approach in rehabilitation to guide your health journey. Our seamless prescription management ensures your treatment is both safe and effective, making our care as convenient as it is comprehensive.</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+          <div class="icon"><i class="fas fa-heartbeat"></i></div>
+          <h4 class="title"><a href="">Cardiac Care</a></h4>
+          <p class="description">Our dedicated Cardiac Care uses advanced technology and personalized treatment plans to ensure heart health for every patient.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+          <div class="icon"><i class="fas fa-pills"></i></div>
+          <h4 class="title"><a href="">Diagnostic Analysis</a></h4>
+          <p class="description">Diagnostic Analysis offers precise and accurate assessments, utilizing the latest in imaging and laboratory techniques.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+          <div class="icon"><i class="fas fa-hospital-user"></i></div>
+          <h4 class="title"><a href="">Emergency Response</a></h4>
+          <p class="description">Emergency Response provides immediate, life-saving interventions with a 24/7 state-of-the-art emergency facility.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+          <div class="icon"><i class="fas fa-dna"></i></div>
+          <h4 class="title"><a href="">Surgical Precision</a></h4>
+          <p class="description">Surgical Precision delivers innovative and minimally invasive procedures, guided by expert surgeons and robotic technology.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+          <div class="icon"><i class="fas fa-wheelchair"></i></div>
+          <h4 class="title"><a href="">Rehabilitation Services</a></h4>
+          <p class="description">Rehabilitation Services supports your journey to recovery with comprehensive therapy programs and compassionate care.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+          <div class="icon"><i class="fas fa-notes-medical"></i></div>
+          <h4 class="title"><a href="">Prescription Management</a></h4>
+          <p class="description">Prescription Management ensures safe, effective medication use with personalized consultations and advanced drug interaction checks</p>
+        </div>
+      </div>
+
+    </div>
+  </section><!-- End Services Section -->
 
   <!-- ======= Doctors Section ======= -->
   <section id="doctors" class="doctors section-bg">
@@ -628,7 +672,39 @@
   </section><!-- End Gallery Section -->
 
   <!-- ======= About Us Section ======= -->
- <!-- End About Us Section -->
+  <section id="about" class="about">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>About Us</h2>
+        <p>Rather than competing in the healthcare industry, we chose instead to support consultants and healthcare professionals by offering highly complex and unique lab tests, with accompanying consultative support, to enhance their ability to provide an accurate diagnosis and comprehensive management of their patients.</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6" data-aos="fade-right">
+          <img src="assets/img/about1.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
+          <h3>WE ARE SRI LANKA'S HIGHEST ACCREDITED LABORATORY.</h3>
+          <p class="fst-italic">
+            ABC healthcare laboratory automation solution drives delivery of quality healthcare results, operational efficiencies, improved laboratory fiscal management, and regulatory compliance.
+          </p>
+          <ul>
+            <li><i class="bi bi-check-circle"></i> Hospitals. </li>
+            <li><i class="bi bi-check-circle"></i> Public Health. </li>
+            <li><i class="bi bi-check-circle"></i> Genetics & Molecular Pathology.</li>
+            <li><i class="bi bi-check-circle"></i> Anatomic Pathology.</li>
+            <li><i class="bi bi-check-circle"></i> Phlebotomy.</li>
+          </ul>
+
+        </div>
+        <p>
+          We support our healthcare professionals to succeed and lead the way in transitioning to a value-based healthcare model. Relying on our time-honoured expertise, we are empowering the industry with the most current testing knowledge, highly customized analysis and unparalleled guidance in implementing these tools to attain results.
+        </p>
+      </div>
+
+    </div>
+  </section><!-- End About Us Section -->
 
   <!-- ======= Frequently Asked Questioins Section ======= -->
   <section id="faq" class="faq section-bg">
@@ -738,8 +814,7 @@
       </div>
 
     </div>
-  </section>
-  <!-- End Contact Section -->
+  </section><!-- End Contact Section -->
 
 </main><!-- End #main -->
 
