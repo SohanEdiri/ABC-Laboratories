@@ -56,6 +56,7 @@
     <nav id="navbar" class="navbar order-last order-lg-0">
       <ul>
         <li><a class="nav-link scrollto " href="#hero">Home</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
@@ -691,6 +692,53 @@
   </section><!-- End Frequently Asked Questioins Section -->
 
   <!-- ======= Contact Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Contact</h2>
+        <p>Reach out to us through our Contact page for any inquiries or assistance you need. Our responsive team is committed to providing you with timely support and detailed information to help you with your healthcare decisions.</p>
+      </div>
+
+    </div>
+
+    <div class="container">
+
+      <div class="row mt-5">
+
+        <div class="col-lg-12">
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="info-box">
+                <i class="bx bx-map"></i>
+                <h3>Our Address</h3>
+                <p>Colombo 8 ,Srilanka</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box mt-4">
+                <i class="bx bx-envelope"></i>
+                <h3>Email Us</h3>
+                <p>info@gmail.com<br>contact@gmail.com</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box mt-4">
+                <i class="bx bx-phone-call"></i>
+                <h3>Call Us</h3>
+                <p>+94 71 6253045<br>+94 75 6253045</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </div>
+  </section>
   <!-- End Contact Section -->
 
 </main><!-- End #main -->

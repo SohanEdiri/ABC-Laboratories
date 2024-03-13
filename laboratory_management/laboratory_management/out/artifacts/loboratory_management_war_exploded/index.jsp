@@ -56,7 +56,7 @@
     <nav id="navbar" class="navbar order-last order-lg-0">
       <ul>
         <li><a class="nav-link scrollto " href="#hero">Home</a></li>
-        <li><a class="nav-link scrollto" href="#about">About</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
@@ -628,39 +628,7 @@
   </section><!-- End Gallery Section -->
 
   <!-- ======= About Us Section ======= -->
-  <section id="about" class="about">
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-title">
-        <h2>About Us</h2>
-        <p>Rather than competing in the healthcare industry, we chose instead to support consultants and healthcare professionals by offering highly complex and unique lab tests, with accompanying consultative support, to enhance their ability to provide an accurate diagnosis and comprehensive management of their patients.</p>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-6" data-aos="fade-right">
-          <img src="assets/img/about1.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <h3>WE ARE SRI LANKA'S HIGHEST ACCREDITED LABORATORY.</h3>
-          <p class="fst-italic">
-            ABC healthcare laboratory automation solution drives delivery of quality healthcare results, operational efficiencies, improved laboratory fiscal management, and regulatory compliance.
-          </p>
-          <ul>
-            <li><i class="bi bi-check-circle"></i> Hospitals. </li>
-            <li><i class="bi bi-check-circle"></i> Public Health. </li>
-            <li><i class="bi bi-check-circle"></i> Genetics & Molecular Pathology.</li>
-            <li><i class="bi bi-check-circle"></i> Anatomic Pathology.</li>
-            <li><i class="bi bi-check-circle"></i> Phlebotomy.</li>
-          </ul>
-
-        </div>
-        <p>
-          We support our healthcare professionals to succeed and lead the way in transitioning to a value-based healthcare model. Relying on our time-honoured expertise, we are empowering the industry with the most current testing knowledge, highly customized analysis and unparalleled guidance in implementing these tools to attain results.
-        </p>
-      </div>
-
-    </div>
-  </section><!-- End About Us Section -->
+ <!-- End About Us Section -->
 
   <!-- ======= Frequently Asked Questioins Section ======= -->
   <section id="faq" class="faq section-bg">
@@ -724,6 +692,53 @@
   </section><!-- End Frequently Asked Questioins Section -->
 
   <!-- ======= Contact Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Contact</h2>
+        <p>Reach out to us through our Contact page for any inquiries or assistance you need. Our responsive team is committed to providing you with timely support and detailed information to help you with your healthcare decisions.</p>
+      </div>
+
+    </div>
+
+    <div class="container">
+
+      <div class="row mt-5">
+
+        <div class="col-lg-12">
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="info-box">
+                <i class="bx bx-map"></i>
+                <h3>Our Address</h3>
+                <p>Colombo 8 ,Srilanka</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box mt-4">
+                <i class="bx bx-envelope"></i>
+                <h3>Email Us</h3>
+                <p>info@gmail.com<br>contact@gmail.com</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box mt-4">
+                <i class="bx bx-phone-call"></i>
+                <h3>Call Us</h3>
+                <p>+94 71 6253045<br>+94 75 6253045</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </div>
+  </section>
   <!-- End Contact Section -->
 
 </main><!-- End #main -->
